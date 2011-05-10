@@ -42,7 +42,7 @@
 	  	<hr />
 		<p class="creditos">
 			Desenvolvido por <a href="<c:url value="http://thiago.cc"/>" target="_blank">Thiago Nogueira</a><br />
-			Código-fonte: <a href="<c:url value="http://github.com/thiagotn/comente-sobre-gae"/>" target="_blank">http://github.com/thiagotn/comente-sobre-gae</a>
+			Código-fonte: <a href="<c:url value="http://github.com/thiagotn/blog-comente-sobre"/>" target="_blank">http://github.com/thiagotn/blog-comente-sobre</a>
 		</p>	
 	  </div> 
 	  <!-- end .grid_12 --> 
