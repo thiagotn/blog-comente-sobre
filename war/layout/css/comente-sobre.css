@@ -1,0 +1,27 @@
+label.error {
+	display: block;
+	color: red;
+	font-style: italic;
+	font-weight: normal
+}
+
+div.error {
+	display: block;
+	color: red;
+	font-style: italic;
+	font-weight: normal
+}
+
+input.error {
+	border: 1px solid red
+}
+
+select.error {
+	border-color: red
+}
+
+.error {
+	color: red;
+	font-style: italic;
+	font-weight: normal
+}

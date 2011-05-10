@@ -1,0 +1,118 @@
+body {
+  background: #E7E7E7 url(img/bg.png) fixed;
+  color: #333;
+  height: auto;
+  padding-bottom: 20px;
+  font-family: "lucida grande", verdana, sans-serif;
+  font-size: 20px;
+/*   text-align: center; */
+}
+
+a {
+  color: #000;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+h1 {
+  font-family: "lucida grande", verdana, sans-serif;
+  font-weight: normal;
+  text-align: center;
+  padding-top: 20px;
+  font-size: 30px;
+  color: #85B839;
+  text-transform: none
+}
+
+h1 a {
+  color: #85B839;
+  text-decoration: none;
+}
+
+h1 a:hover {
+  text-decoration: none;
+}
+
+h2 {
+  padding-top: 20px;
+  text-align: justify;
+}
+
+h2 a {
+  color: #343434;
+  font-size: 20px;
+}
+
+h2 a:hover {
+  text-decoration: none;
+}
+
+p {
+  border: 1px solid #E7E7E7;
+  overflow: hidden;
+  text-align: center;
+}
+
+.button a:hover {
+  text-decoration: none;
+}
+
+.button a {
+  text-decoration: none;
+  color: #000;
+}
+
+.comentario {
+  color: #85B839;
+  font-size: 16px;
+  margin: 35px 0 10px;
+  text-transform: none
+}
+
+.assunto {
+  color: #85B839;
+  font-size: 26px;
+  margin: 35px 0 10px;
+  text-transform: none
+}
+
+.assunto a {
+  color: #85B839;
+  font-size: 26px;
+  margin: 35px 0 10px;
+  text-transform: none;
+  text-decoration: none;
+}
+
+.assunto a:hover {
+  text-decoration: none;
+}
+
+.assuntoCount {
+  color: #000;
+  font-size: 26px;
+  margin: 35px 0 10px;
+  text-decoration: none;
+}
+
+.topAssuntos {
+  text-align: left;		
+}
+
+.creditos {
+  color: #000;
+  font-size: 12px;
+  text-decoration: none;
+}
+
+.container_12,
+.container_16,
+.container_24 {
+  background: #E7E7E7 url(img/bg.png) fixed;
+  background-repeat: repeat-y;
+  margin-bottom: 20px;
+}
+
